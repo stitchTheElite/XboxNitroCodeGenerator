@@ -1,5 +1,4 @@
-# [Xbox Nitro Generator]
-(https://github.com/stitchTheElite/XboxNitroCodeGenerator)
+# [Xbox Nitro Generator](https://github.com/stitchTheElite/XboxNitroCodeGenerator)
 
 Doesn't generate 100% valid ones! they are randomly generated.
 
